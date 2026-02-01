@@ -1375,7 +1375,6 @@
             <!-- Hero Section -->
             <section class="hero-section">
                 <div class="hero-bg"></div>
-                <br></br>
 <div class="hero-content">
     <h1 class="hero-title">
         Free Online <span>Text to Handwriting</span> Converter
