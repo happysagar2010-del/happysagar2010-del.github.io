@@ -1411,7 +1411,6 @@
                         <i>🎨</i>
                         Try the Converter Now
                     </button>
-                </div>
             </section>
 
             <!-- Features Section -->
